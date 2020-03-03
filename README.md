@@ -3,3 +3,5 @@ Completed the Unity tutorial of feeding horses and added additional features jus
 
 Play it here:
 https://kangaru94.itch.io/horse-shooter-9000?secret=VxDMJnRVrTktiB0lymsToQ9wfM
+
+Might release a second version with a restart option
